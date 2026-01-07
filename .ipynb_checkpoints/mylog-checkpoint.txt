@@ -1,0 +1,5 @@
+2025-06-07 13:10:52,084 - Monika - DEBUG - there is nothing to debug
+2025-06-07 13:10:52,085 - Monika - INFO - this is my ml bootcamp class
+2025-06-07 13:10:52,085 - Monika - WARNING - focus only in the class
+2025-06-07 13:10:52,085 - Monika - ERROR - there is no error
+2025-06-07 13:10:52,085 - Monika - CRITICAL - there is no any critical issue
