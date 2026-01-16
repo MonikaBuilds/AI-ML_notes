@@ -1,0 +1,14 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+.calculator {
+    text-align: center;
+    padding: 30px;
+}
+
+input, select {
+    padding: 10px;
+    margin: 10px;
+}
